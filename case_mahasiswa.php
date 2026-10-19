@@ -53,7 +53,7 @@ class Mahasiswa {
 }
 $mhs1 = new Mahasiswa(
     "2301001",
-    "Andi",
+    "Andra",
     "Sistem Informasi",
     3
 );

@@ -11,6 +11,6 @@ class Mahasiswa{
     }
 }
 $mhs1= new Mahasiswa();
-$mhs1->setProdi("Sistem Informasi");
+$mhs1->setProdi("Sistem Informatika");
 echo $mhs1->getProdi();
 ?>

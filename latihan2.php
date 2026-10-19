@@ -11,6 +11,6 @@ class Mahasiswa{
     }
 }
 $mhs1= new Mahasiswa();
-$mhs1->setNama("Andi");
+$mhs1->setNama("Andra");
 echo "Nama Mahasiswa :" .$mhs1->getNama();
 ?>

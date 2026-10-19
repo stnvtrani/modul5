@@ -22,7 +22,7 @@ class Mahasiswa{
     }
 }
 $mhs1= new Mahasiswa();
-$mhs1->setNama("Andi");
+$mhs1->setNama("Andra");
 $mhs1->setNilai("85");
 echo "Nama :" .$mhs1->getNama()."<br>";
 echo "Nilai :" .$mhs1->getNilai();

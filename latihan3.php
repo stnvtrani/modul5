@@ -20,7 +20,7 @@ class Mahasiswa{
         return $this->prodi;
     }
 }
-$mhs1= new Mahasiswa("2301001","Ando","Sistem Informasi");
+$mhs1= new Mahasiswa("2301001","Andra","Sistem Informasi");
 echo "NIM :" .$mhs1->getNim()."<br>";
 echo "Nama :" .$mhs1->getNama()."<br>";
 echo "Prodi :" .$mhs1->getProdi();

@@ -5,6 +5,6 @@ class Mahasiswa{
     private $nilai;
 }
 $mhs1= new Mahasiswa();
-$mhs1->nama="Andi"
+$mhs1->nama="Andra"
 echo "Nama: " .$mhs1->nama;
 ?>
